@@ -1,9 +1,10 @@
 {
   "notes": [
-    "- GApps Build",
-    "- Use the latest MIUI 12.5.2 RCOMIXM/MIUI 12.5.12 RCOEUXM Firmware",
+    "- Use the latest MIUI 12.5 Firmware",
     "- Clean flash is highly recommended",
-    "- Shipped with fully working & micam (portrait and 48mp working)"
+    "- MiCam included",
+    "- Using Pie Lib Chromatix for better Camera Quality",
+    "- Fast Charging is working for all variants"
   ],
   "download": "https://sourceforge.net/projects/gingko/files/RisingOS/"
 }
