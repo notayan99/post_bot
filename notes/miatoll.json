@@ -1,0 +1,17 @@
+{
+  "notes": [
+    "- Switched to common Xiaomi light AIDL",
+    "- Switched to AIDL power hal",
+    "- Updated USB controller configuration",
+    "- Flatten APEXs for performance",
+    "- Update media codecs from V13.0.2.0.SJZMIXM and blobs from v13.0.4.0SJZMIXM"
+    "- Improved screen recording",
+    "- Disabled smart charging",
+    "- Enabled blur and added an option to disable it from developer settings if user wants"
+    "- Increased QS panel smoothness after QPR2 update"
+    "- Overall increased Stability, smoothness & ram management",
+    "- Build QTI vibrator from source",
+    "- Removed aptX(HD) encoder shared libs",
+  ],
+  "download": "https://www.pling.com/p/1997577/"
+}
